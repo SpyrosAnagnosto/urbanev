@@ -1,0 +1,5 @@
+title: UrbanEV Blog
+description: Exploring EV charging data in Shenzhen
+markdown: kramdown
+highlighter: rouge
+baseurl: "/urbanev-blog"
